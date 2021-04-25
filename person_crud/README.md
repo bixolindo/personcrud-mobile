@@ -1,6 +1,13 @@
-# person_crud
+# Sobre o projeto
 
-A new Flutter project.
+esse projeto foi criado para manipular um backend de CRUD criado em meu [outro repositorio](https://github.com/bixolindo/quarkus-crud);
+
+foi desenvolvido por mim e @paulomoschen com dicas do @T4SUYA
+
+ele foi desenvolvido usando flutter
+
+# Demo 
+https://user-images.githubusercontent.com/63428635/116007676-5eb6d180-a5e7-11eb-9f72-218dc43c5389.mp4
 
 ## Getting Started
 
