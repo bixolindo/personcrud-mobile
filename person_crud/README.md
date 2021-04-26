@@ -1,6 +1,5 @@
 # Sobre o projeto
-
-esse projeto foi criado para manipular um backend de CRUD criado em meu [outro repositorio](https://github.com/bixolindo/quarkus-crud);
+Este projeto foi criado para manipular um backend de CRUD criado em meu [outro repositório](https://github.com/bixolindo/quarkus-crud);
 
 foi desenvolvido por mim e @paulomoschen com dicas do @T4SUYA
 
