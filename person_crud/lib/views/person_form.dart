@@ -167,7 +167,7 @@ class _PersonFormState extends State<PersonForm> {
                               borderSide:
                                   BorderSide(color: Colors.grey, width: 1),
                             ),
-                            hintText: 'Addess',
+                            hintText: 'Address',
                           ),
                           validator: (value) {
                             if (value == null || value.isEmpty) {
